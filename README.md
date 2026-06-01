@@ -40,14 +40,14 @@ Dra. Alicia Costábile -  Institut Pasteur de Montevideo / Facultad de Ciencias,
 Introducción al práctico: Herramientas para el manejo de secuencias y para la tipificación de cepas bacterianas, análisis comparativos y relaciones filogenéticas  
 Dra. Daniela Costa - Institut Pasteur de Montevideo / Universidad ORT  
 
-### Día 3: 10/06/26
-#### Salón de actos de Planta Baja - 9:00 a 12:00 
-Microorganismos y su papel en el ambiente
-Dra. Daniela Arredondo - Instituto de Investigaciones Biológicas Clemente Estable / Instituto de Investigación Una Salud, UdelaR
-Microorganismos de relevancia en salud animal y zoonosis
-PhD Ana Rabaza - Institut Pasteur de Montevideo / Instituto de Investigación Una Salud, UdelaR
-Relación entre los microorganismos y salud humana
-PhD Nadia Riera - Institut Pasteur de Montevideo
+### Día 3: 10/06/26  
+#### Salón de actos de Planta Baja - 9:00 a 12:00   
+Microorganismos y su papel en el ambiente  
+Dra. Daniela Arredondo - Instituto de Investigaciones Biológicas Clemente Estable / Instituto de Investigación Una Salud, UdelaR  
+Microorganismos de relevancia en salud animal y zoonosis  
+PhD Ana Rabaza - Institut Pasteur de Montevideo / Instituto de Investigación Una Salud, UdelaR  
+Relación entre los microorganismos y salud humana  
+PhD Nadia Riera - Institut Pasteur de Montevideo  
 
 #### Laboratorio de enseñanza - 13:00 a 17:00 
 Laboratorio práctico: Preparación de biblioteca de secuenciación ONT  
