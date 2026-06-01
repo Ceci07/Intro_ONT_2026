@@ -50,17 +50,17 @@ Relación entre los microorganismos y salud humana
 PhD Nadia Riera - Institut Pasteur de Montevideo
 
 #### Laboratorio de enseñanza - 13:00 a 17:00 
-Laboratorio práctico: Preparación de biblioteca de secuenciación ONT
-Dra. Cecilia Costábile, Lic. Cecilia Portela y Dra. Cecilia Salazar
+Laboratorio práctico: Preparación de biblioteca de secuenciación ONT  
+Dra. Cecilia Costábile, Lic. Cecilia Portela y Dra. Cecilia Salazar  
 
-### Día 4: 11/06/26  
-#### Salón de actos de Planta Baja - 9:00 a 12:00  
-Introducción al análisis de genomas bacterianos    
-PhD Daniela Megrián - Institut Pasteur de Montevideo  
-Breve introducción a la filogenética  
-Dr. Andrés Parada - Facultad de Ciencias, UdelaR / Institut Pasteur de Montevideo  
-Filogenética y filogeografía: herramientas para el estudio de las poblaciones microbianas y su aplicación en epidemiología  
-Dr. Pablo Fresia - Institut Pasteur de Montevideo  
+### Día 4: 11/06/26    
+#### Salón de actos de Planta Baja - 9:00 a 12:00    
+Introducción al análisis de genomas bacterianos      
+PhD Daniela Megrián - Institut Pasteur de Montevideo    
+Breve introducción a la filogenética      
+Dr. Andrés Parada - Facultad de Ciencias, UdelaR / Institut Pasteur de Montevideo    
+Filogenética y filogeografía: herramientas para el estudio de las poblaciones microbianas y su aplicación en epidemiología    
+Dr. Pablo Fresia - Institut Pasteur de Montevideo    
 
 #### Laboratorio de enseñanza - 13:00 a 17:00   
 Laboratorio práctico: Preparación de biblioteca de secuenciación ONT  
