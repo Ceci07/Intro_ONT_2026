@@ -32,13 +32,13 @@ Dra. Luisa Berná - Institut Pasteur de Montevideo / Facultad de Ciencias, Udela
 Reconstruyendo genomas complejos  
 Dra. Florencia Díaz-Viraqué - Institut Pasteur de Montevideo  
 
-#### Sala de informática - 13:00 a 17:00 
-Introducción al práctico: Consideraciones para la obtención de ADN de alta calidad para secuenciación ONT
-Dra. Cecilia Salazar - Institut Pasteur de Montevideo / Instituto de Investigación Una Salud, UdelaR 
-Introducción al práctico: Elección de plataformas de secuenciación y estrategia de secuenciación
-Dra. Alicia Costábile -  Institut Pasteur de Montevideo / Facultad de Ciencias, UdelaR
-Introducción al práctico: Herramientas para el manejo de secuencias y para la tipificación de cepas bacterianas, análisis comparativos y relaciones filogenéticas
-Dra. Daniela Costa - Institut Pasteur de Montevideo / Universidad ORT
+#### Sala de informática - 13:00 a 17:00   
+Introducción al práctico: Consideraciones para la obtención de ADN de alta calidad para secuenciación ONT  
+Dra. Cecilia Salazar - Institut Pasteur de Montevideo / Instituto de Investigación Una Salud, UdelaR   
+Introducción al práctico: Elección de plataformas de secuenciación y estrategia de secuenciación  
+Dra. Alicia Costábile -  Institut Pasteur de Montevideo / Facultad de Ciencias, UdelaR  
+Introducción al práctico: Herramientas para el manejo de secuencias y para la tipificación de cepas bacterianas, análisis comparativos y relaciones filogenéticas  
+Dra. Daniela Costa - Institut Pasteur de Montevideo / Universidad ORT  
 
 ### Día 3: 10/06/26
 #### Salón de actos de Planta Baja - 9:00 a 12:00 
