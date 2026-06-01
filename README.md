@@ -23,14 +23,14 @@ Genómica y metagenómica aplicadas a la caracterización microbiana
 Dr. Matías Giménez - Institut Pasteur de Montevideo  
 Introducción al práctico de análisis de datos  
 
-### Día 2: 09/06/26  
-#### Salón de actos de Planta Baja - 9:00 a 12:00   
-Microorganismos y enfermedades desatendidas  
-Dra. Florencia Mosquillo - Facultad de Veterinaria, UdelaR /  Instituto de Investigación Una Salud, UdelaR
-Ensamblaje y análisis de genomas
-Dra. Luisa Berná - Institut Pasteur de Montevideo / Facultad de Ciencias, UdelaR
-Reconstruyendo genomas complejos
-Dra. Florencia Díaz-Viraqué - Institut Pasteur de Montevideo
+### Día 2: 09/06/26    
+#### Salón de actos de Planta Baja - 9:00 a 12:00     
+Microorganismos y enfermedades desatendidas    
+Dra. Florencia Mosquillo - Facultad de Veterinaria, UdelaR /  Instituto de Investigación Una Salud, UdelaR  
+Ensamblaje y análisis de genomas  
+Dra. Luisa Berná - Institut Pasteur de Montevideo / Facultad de Ciencias, UdelaR  
+Reconstruyendo genomas complejos  
+Dra. Florencia Díaz-Viraqué - Institut Pasteur de Montevideo  
 
 #### Sala de informática - 13:00 a 17:00 
 Introducción al práctico: Consideraciones para la obtención de ADN de alta calidad para secuenciación ONT
