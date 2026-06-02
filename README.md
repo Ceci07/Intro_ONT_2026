@@ -4,6 +4,7 @@
 ### Del 8 al 16 de junio de 2026
 #### De 9:00 a 12:00 y de 13:00 a 17:00
 
+Ver introducción previo al inicio del curso en este [LINK](https://ceci07.github.io/Intro_ONT_2026/intro.html).  
 
 ### Día 1: 08/06/26 - 9:00 a 12:00   
 #### Salón de actos de Planta Baja    
