@@ -21,7 +21,7 @@ Secuenciación de amplicones: explorando la diversidad microbiana a través de g
 Dra. Tamara Fernández - Institut Pasteur de Montevideo /  Universidad Católica del Uruguay  
 Genómica y metagenómica aplicadas a la caracterización microbiana  
 Dr. Matías Giménez - Institut Pasteur de Montevideo  
-Introducción al práctico de análisis de datos. Localización de datos y scripts [Tutorial](https://ceci07.github.io/Intro_ONT_2024/tutorial1.html) 
+Introducción al práctico de análisis de datos. Localización de datos y scripts [Tutorial](https://ceci07.github.io/Intro_ONT_2026/tutorial1.html) 
 
 ### Día 2: 09/06/26    
 #### Salón de actos de Planta Baja - 9:00 a 12:00     
