@@ -77,7 +77,7 @@ Fagos como plataformas antimicrobianas
 Dra. Natalia Echeverría - Facultad de Ciencias, UdelaR /  Institut Pasteur de Montevideo  
 
 #### Sala de informática - 13:00 a 17:00  
-Laboratorio práctico: Análisis de datos  
+Laboratorio práctico: Análisis de datos [Tutorial](https://ceci07.github.io/Intro_ONT_2026/tutorial2.html)   
 
 ### Día 6: 15/06/26  
 #### Sala de informática - 9:00 a 12:00 & 13:00 a 17:00  
