@@ -427,7 +427,7 @@ comando:</p>
 sistema.</strong></p>
 <p>Para visualizar el contenido en del directorio utilizando el
 siguiente comando utilizando el <strong>PATH absoluto</strong>:</p>
-<pre><code>ls $DIR_CURSO/curso_ont_2026</code></pre>
+<pre><code>ls $DIR_CURSO/</code></pre>
 <p>Si se encuentra dentro del directorio <em>curso_ont_2026</em>, puede
 utilizar el <strong>PATH relativo</strong>:</p>
 <pre><code>ls .</code></pre>
@@ -461,24 +461,24 @@ Bioinformatics Resource Center</a>.<br />
 </div>
 <p>Si nos interesa ver el script correspondiente al filtrado de datos de
 Illumina, utilizaremos el comando</p>
-<pre><code>head -n 20 $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh</code></pre>
+<pre><code>head -n 20 $DIR_CURSO/scripts/1.fastqc.sh</code></pre>
 <p>Alternativamente se pueden utilizar los comandos:</p>
-<pre><code>more $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh
-less $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh</code></pre>
+<pre><code>more $DIR_CURSO/scripts/1.fastqc.sh
+less $DIR_CURSO/scripts/1.fastqc.sh</code></pre>
 <div id="realizar-una-copia-de-un-archivo-y-eliminar-archivo." class="section level4" style="color:#bc4749;">
 <h4>3.2 Realizar una copia de un archivo y eliminar archivo.</h4>
 </div>
-<pre><code>cp $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh
-rm $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh</code></pre>
+<pre><code>cp $DIR_CURSO/scripts/1.fastqc.sh $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh
+rm $DIR_CURSO/scripts/copia_1.fastqc.sh</code></pre>
 <div id="edición-de-contenidos-de-archivos-de-texto" class="section level4" style="color:#bc4749;">
 <h4>3.3 Edición de contenidos de archivos de texto</h4>
 </div>
 <p>Para editar los archivos de texto utilizaremos el comando
 <strong>nano</strong> y seguiremos las instrucciones que se muestran en
 el pie de la pantalla para guardar o descartar cambios</p>
-<pre><code>cp $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh
-nano $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh
-rm $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh</code></pre>
+<pre><code>cp $DIR_CURSO/scripts/1.fastqc.sh $DIR_CURSO/curso_ont_2026/scripts/copia_1.fastqc.sh
+nano $DIR_CURSO/scripts/copia_1.fastqc.sh
+rm $DIR_CURSO/scripts/copia_1.fastqc.sh</code></pre>
 <p>Alternativamente, podemos abrir el archivo con un editor de texto
 instalado en el sistema como <em>gedit</em>.</p>
 <div id="utilización-de-contenedores" class="section level4" style="color:#bc4749;">
@@ -517,7 +517,7 @@ los scripts que son interpretados por Rscript para la ejecución de
 comandos de R.</p>
 <p>Para que el intéprete Bash pueda ejecutar los scripts, los mismos
 deben tener el permiso de ejecución:</p>
-<pre><code>chmod +x $DIR_CURSO/curso_ont_2026/scripts/1.fastqc.sh</code></pre>
+<pre><code>chmod +x $DIR_CURSO/scripts/1.fastqc.sh</code></pre>
 <p>La ejecución de los comandos en el script viene dado por el siguiente
 comando:</p>
 <pre><code>./scripts/1.fastqc.sh</code></pre>
@@ -526,7 +526,7 @@ directorio <em>scripts</em></p>
 <p>A diferencia de los scripts .sh, los scripts .R no requieren un
 encabezado específico, ya que son ejecutados directamente por el
 intérprete Rscript.</p>
-<pre><code>Rscript $DIR_CURSO/curso_ont_2026/scripts/1_rscript_nanoplot.R</code></pre>
+<pre><code>Rscript $DIR_CURSO/scripts/1_rscript_nanoplot.R</code></pre>
 <p>Alternativamente, se pueden abrir en Rstudio y ejecutar los comandos
 presentes en este script. Esto tiene la ventaja que los scripts pueden
 ser adaptados y personalizados.</p>
@@ -536,11 +536,11 @@ ser adaptados y personalizados.</p>
 <div id="formato-de-las-lecturas-de-secuenciación-de-illumina" class="section level3" style="color:#bc4749;">
 <h3>5.1 Formato de las lecturas de secuenciación de Illumina</h3>
 </div>
-<pre><code>head -n 5 $DIR_CURSO/curso_ont_2026/illumina_data/*.fastq</code></pre>
+<pre><code>head -n 5 $DIR_CURSO/illumina_data/*.fastq</code></pre>
 <div id="formato-de-las-lecturas-de-secuenciación-de-ont" class="section level3" style="color:#bc4749;">
 <h3>5.2 Formato de las lecturas de secuenciación de ONT</h3>
 </div>
-<pre><code>head -n 5 $DIR_CURSO/curso_ont_2026/ont_data/*.fastq</code></pre>
+<pre><code>head -n 5 $DIR_CURSO/ont_data/*.fastq</code></pre>
 <div id="preguntas-para-ir-contestando-a-lo-largo-del-curso" class="section level3" style="color:#bc4749;">
 <h3><strong>6. Preguntas para ir contestando a lo largo del
 curso</strong></h3>
